@@ -43,8 +43,8 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-24" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="4400" width="960" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="4590" width="120" height="60" as="geometry" />
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-26" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="4520" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
