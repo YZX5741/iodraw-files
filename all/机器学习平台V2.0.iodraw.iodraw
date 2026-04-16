@@ -34,7 +34,7 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-20" value="敏感数据加密：敏感数据集只能查看字段名，其余内容*代替" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
           <mxGeometry x="30" y="160" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-21" value="版本管理：对同一数据集可以进行追加清洗等操作并进行版本管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-21" value="版本管理：对同一数据集可以进行追加清洗等操作并进行版本管理，每次数据集修改（追加、清洗、特征工程）生成新版本，并可追溯、回滚。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
           <mxGeometry x="30" y="210" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-23" value="自动检测：支持检测数据集缺失率、重复行、异常值、分布漂移自动给出修复方案（如删除、插值、标记）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
