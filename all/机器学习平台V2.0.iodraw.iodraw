@@ -28,8 +28,8 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-17" value="标准化处理：所以导入的数据统一转换为内部标准格式，并储存于本地文件系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
           <mxGeometry x="30" y="35" width="360" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="4200" width="120" height="60" as="geometry" />
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-19" value="数据集管理：可对数据集进行删除、预览等操作，" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
+          <mxGeometry x="30" y="110" width="360" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
