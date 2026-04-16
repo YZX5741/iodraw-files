@@ -23,7 +23,7 @@
           <mxGeometry x="50" y="150" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-15" value="数据集管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="4010" width="430" height="340" as="geometry" />
+          <mxGeometry x="1760" y="4000" width="430" height="340" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-17" value="标准化处理：所以导入的数据统一转换为内部标准格式，并储存于本地文件系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
           <mxGeometry x="30" y="35" width="360" height="55" as="geometry" />
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-23" value="自动检测：支持检测数据集缺失率、重复行、异常值、分布漂移自动给出修复方案（如删除、插值、标记）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
           <mxGeometry x="30" y="280" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="4400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
