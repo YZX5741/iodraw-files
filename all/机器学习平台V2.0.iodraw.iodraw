@@ -34,6 +34,9 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-20" value="敏感数据加密：敏感数据集只能查看字段名，其余内容*代替" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
           <mxGeometry x="30" y="160" width="360" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
+          <mxGeometry x="30" y="210" width="360" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
