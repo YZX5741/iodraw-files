@@ -7,8 +7,8 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-2" value="自动化机器学习平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="3870" width="940" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="3970" width="340" height="80" as="geometry" />
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-3" value="&lt;h3 style=&quot;box-sizing: border-box; break-after: avoid-page; break-inside: avoid; orphans: 4; font-size: 1.17rem; margin: 0px 0px 1.5rem; font-family: &amp;quot;Lucida Grande&amp;quot;, Corbel, sans-serif; clear: both; overflow-wrap: break-word; padding: 0px; color: rgb(222, 222, 222); line-height: 1.5rem; letter-spacing: -1px; white-space-collapse: preserve; position: relative; text-align: start;&quot; class=&quot;md-end-block md-heading md-focus&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;md-plain md-expand&quot;&gt;数据获取层&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="3970" width="340" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
