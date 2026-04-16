@@ -37,8 +37,8 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-21" value="版本管理：对同一数据集可以进行追加清洗等操作并进行版本管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
           <mxGeometry x="30" y="210" width="360" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-22" value="自动检测：" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
-          <mxGeometry x="30" y="280" width="360" height="50" as="geometry" />
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
+          <mxGeometry x="30" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
