@@ -16,6 +16,9 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-10" value="数据库链接：支持MySQL、SQLlist、postgreSQL等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-6">
           <mxGeometry x="20" y="80" width="290" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-6">
+          <mxGeometry x="20" y="140" width="290" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
