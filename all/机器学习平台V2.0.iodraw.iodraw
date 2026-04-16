@@ -40,8 +40,11 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-23" value="自动检测：支持检测数据集缺失率、重复行、异常值、分布漂移自动给出修复方案（如删除、插值、标记）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
           <mxGeometry x="30" y="280" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="4400" width="120" height="60" as="geometry" />
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-24" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="4400" width="960" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="4590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
