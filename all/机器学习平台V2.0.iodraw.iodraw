@@ -13,8 +13,8 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-9" value="文件上传：支持CSV、Excel" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-6">
           <mxGeometry x="20" y="30" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="4210" width="120" height="60" as="geometry" />
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-10" value="数据库链接：支持MySQL、SQLlist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-6">
+          <mxGeometry x="20" y="80" width="290" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
