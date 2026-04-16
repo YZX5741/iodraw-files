@@ -23,7 +23,7 @@
           <mxGeometry x="50" y="150" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-15" value="数据集管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="4010" width="430" height="300" as="geometry" />
+          <mxGeometry x="1770" y="4010" width="430" height="370" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-17" value="标准化处理：所以导入的数据统一转换为内部标准格式，并储存于本地文件系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
           <mxGeometry x="30" y="35" width="360" height="55" as="geometry" />
@@ -34,7 +34,7 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-20" value="敏感数据加密：敏感数据集只能查看字段名，其余内容*代替" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
           <mxGeometry x="30" y="160" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-21" value="版本管理：对同一数据集可以进行追加清洗等操作并进行版本管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-15">
           <mxGeometry x="30" y="210" width="360" height="50" as="geometry" />
         </mxCell>
       </root>
