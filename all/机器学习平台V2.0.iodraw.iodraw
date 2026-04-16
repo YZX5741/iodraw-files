@@ -8,7 +8,7 @@
           <mxGeometry x="1340" y="3870" width="940" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-3" value="数据获取层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="3980" width="120" height="30" as="geometry" />
+          <mxGeometry x="1480" y="3970" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
