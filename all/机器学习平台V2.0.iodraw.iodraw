@@ -8,7 +8,7 @@
           <mxGeometry x="1340" y="3870" width="940" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-6" value="数据获取" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="4010" width="400" height="240" as="geometry" />
+          <mxGeometry x="1320" y="4010" width="390" height="320" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-9" value="文件上传：支持CSV、Excel" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-6">
           <mxGeometry x="55" y="49" width="290" height="40" as="geometry" />
