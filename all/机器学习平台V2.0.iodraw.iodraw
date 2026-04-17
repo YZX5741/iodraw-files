@@ -62,7 +62,7 @@
           <mxGeometry x="20" y="150" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-27" value="回归" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="4500" width="200" height="200" as="geometry" />
+          <mxGeometry x="1580" y="4500" width="200" height="220" as="geometry" />
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-6" value="线性回归" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-27">
           <mxGeometry x="20" y="30" width="160" height="20" as="geometry" />
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-9" value="随机森林回归" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-27">
           <mxGeometry x="20" y="120" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-10" value="XGBoost回归" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-27">
+          <mxGeometry x="20" y="150" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-29" value="聚类" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1870" y="4500" width="200" height="200" as="geometry" />
