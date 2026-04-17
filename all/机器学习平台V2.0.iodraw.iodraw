@@ -58,8 +58,8 @@
         <mxCell id="ul-Vwd7saMStCwck5iwu-32" value="类别特征目标编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ul-Vwd7saMStCwck5iwu-28">
           <mxGeometry x="20" y="120" width="300" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-34" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;算法模型库&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="4800" width="980" height="450" as="geometry" />
+        <mxCell id="ul-Vwd7saMStCwck5iwu-34" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;算法模型库&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="4780" width="980" height="390" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-26" value="分类" style="swimlane;whiteSpace=wrap;html=1;" parent="ul-Vwd7saMStCwck5iwu-34" vertex="1">
           <mxGeometry x="20" y="70" width="200" height="210" as="geometry" />
