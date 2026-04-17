@@ -48,6 +48,9 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-23" value="自动检测：支持检测数据集缺失率、重复行、异常值、分布漂移自动给出修复方案（如删除、插值、标记）" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-15" vertex="1">
           <mxGeometry x="30" y="280" width="360" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ul-Vwd7saMStCwck5iwu-28" target="ul-Vwd7saMStCwck5iwu-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-28" value="特征工程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1720" y="4040" width="330" height="150" as="geometry" />
         </mxCell>
@@ -64,7 +67,7 @@
           <mxGeometry x="20" y="120" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-34" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;算法模型库&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="2190" y="3560" width="980" height="390" as="geometry" />
+          <mxGeometry x="2020" y="4450" width="980" height="390" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-26" value="分类" style="swimlane;whiteSpace=wrap;html=1;" parent="ul-Vwd7saMStCwck5iwu-34" vertex="1">
           <mxGeometry x="20" y="70" width="200" height="210" as="geometry" />
