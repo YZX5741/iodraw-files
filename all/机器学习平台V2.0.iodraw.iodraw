@@ -52,7 +52,7 @@
         <mxCell id="ul-Vwd7saMStCwck5iwu-2" value="随机森林" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-26">
           <mxGeometry x="20" y="60" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-26">
+        <mxCell id="ul-Vwd7saMStCwck5iwu-3" value="XGBoost" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-26">
           <mxGeometry x="20" y="90" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-27" value="回归" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
