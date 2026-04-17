@@ -49,6 +49,9 @@
         <mxCell id="ul-Vwd7saMStCwck5iwu-1" value="逻辑回归" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-26">
           <mxGeometry x="20" y="30" width="160" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-2" value="逻辑回归" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-26">
+          <mxGeometry x="20" y="60" width="160" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-27" value="回归" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1590" y="4500" width="200" height="200" as="geometry" />
         </mxCell>
