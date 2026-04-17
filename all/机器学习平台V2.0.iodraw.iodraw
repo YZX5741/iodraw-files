@@ -41,7 +41,7 @@
           <mxGeometry x="30" y="280" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-28" value="特征工程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2180" y="4370" width="330" height="150" as="geometry" />
+          <mxGeometry x="2270" y="4160" width="330" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-29" value="自动特征交叉" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ul-Vwd7saMStCwck5iwu-28">
           <mxGeometry x="20" y="30" width="300" height="20" as="geometry" />
