@@ -139,6 +139,9 @@
         <mxCell id="ul-Vwd7saMStCwck5iwu-31" value="时间特征提取（如差分化、滑动窗口）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ul-Vwd7saMStCwck5iwu-28">
           <mxGeometry x="20" y="90" width="300" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-32" value="类别特征目标编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ul-Vwd7saMStCwck5iwu-28">
+          <mxGeometry x="20" y="120" width="300" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
