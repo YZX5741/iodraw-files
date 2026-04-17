@@ -64,6 +64,9 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-30" value="时间序列预测" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="4500" width="200" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-4" value="XGBoost" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="4600" width="160" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
