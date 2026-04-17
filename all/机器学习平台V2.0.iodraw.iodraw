@@ -85,6 +85,11 @@
         <mxCell id="ul-Vwd7saMStCwck5iwu-11" value="向量回归" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-27">
           <mxGeometry x="20" y="180" width="160" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rr7qfzfnsnY9gMWIjZwD-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1970.3333333333335" y="4790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-29" value="聚类" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1870" y="4500" width="200" height="270" as="geometry" />
         </mxCell>
@@ -106,6 +111,9 @@
         <mxCell id="ul-Vwd7saMStCwck5iwu-22" value="One-Class" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-29">
           <mxGeometry x="20" y="190" width="160" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-23" value="SVM" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-29">
+          <mxGeometry x="20" y="220" width="160" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-30" value="时间序列预测" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="4500" width="200" height="200" as="geometry" />
         </mxCell>
@@ -120,9 +128,6 @@
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-20" value="Transformer" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-30">
           <mxGeometry x="20" y="130" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-23" value="One-Class" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="4700" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
