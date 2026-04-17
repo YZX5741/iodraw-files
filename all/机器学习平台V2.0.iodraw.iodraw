@@ -23,7 +23,7 @@
           <mxGeometry x="50" y="150" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-24" value="算法模型库" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontFamily=Times New Roman;horizontal=1;verticalAlign=top;fontSize=57;" parent="1" vertex="1">
-          <mxGeometry x="2530" y="4740" width="410" height="260" as="geometry" />
+          <mxGeometry x="1630" y="4430" width="410" height="260" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-15" value="数据集管理" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1760" y="4000" width="430" height="340" as="geometry" />
@@ -43,8 +43,26 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-23" value="自动检测：支持检测数据集缺失率、重复行、异常值、分布漂移自动给出修复方案（如删除、插值、标记）" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-15" vertex="1">
           <mxGeometry x="30" y="280" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-26" value="分类" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="555" y="4655" width="200" height="210" as="geometry" />
+        <mxCell id="ul-Vwd7saMStCwck5iwu-28" value="特征工程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="4370" width="330" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-29" value="自动特征交叉" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ul-Vwd7saMStCwck5iwu-28">
+          <mxGeometry x="20" y="30" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-30" value="缺失值智能填充" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ul-Vwd7saMStCwck5iwu-28">
+          <mxGeometry x="20" y="60" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-31" value="时间特征提取（如差分化、滑动窗口）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ul-Vwd7saMStCwck5iwu-28">
+          <mxGeometry x="20" y="90" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-32" value="类别特征目标编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ul-Vwd7saMStCwck5iwu-28">
+          <mxGeometry x="20" y="120" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-34" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="4840" width="910" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-26" value="分类" style="swimlane;whiteSpace=wrap;html=1;" parent="ul-Vwd7saMStCwck5iwu-34" vertex="1">
+          <mxGeometry x="-30" y="220" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-1" value="逻辑回归" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-26">
           <mxGeometry x="20" y="30" width="160" height="20" as="geometry" />
@@ -64,8 +82,8 @@
         <mxCell id="ul-Vwd7saMStCwck5iwu-12" value="向量机" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-26">
           <mxGeometry x="20" y="180" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-27" value="回归" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="795" y="4655" width="200" height="210" as="geometry" />
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-27" value="回归" style="swimlane;whiteSpace=wrap;html=1;" parent="ul-Vwd7saMStCwck5iwu-34" vertex="1">
+          <mxGeometry x="210" y="220" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-6" value="线性回归" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-27">
           <mxGeometry x="20" y="30" width="160" height="20" as="geometry" />
@@ -85,8 +103,8 @@
         <mxCell id="ul-Vwd7saMStCwck5iwu-11" value="向量回归" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-27">
           <mxGeometry x="20" y="180" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-29" value="聚类" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1045" y="4655" width="200" height="300" as="geometry" />
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-29" value="聚类" style="swimlane;whiteSpace=wrap;html=1;" parent="ul-Vwd7saMStCwck5iwu-34" vertex="1">
+          <mxGeometry x="460" y="220" width="200" height="300" as="geometry" />
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-13" value="K-Means" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-29">
           <mxGeometry x="20" y="40" width="160" height="20" as="geometry" />
@@ -112,8 +130,8 @@
         <mxCell id="ul-Vwd7saMStCwck5iwu-25" value="Autoencoder" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-29">
           <mxGeometry x="20" y="250" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-30" value="时间序列预测" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1295" y="4655" width="200" height="200" as="geometry" />
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-30" value="时间序列预测" style="swimlane;whiteSpace=wrap;html=1;" parent="ul-Vwd7saMStCwck5iwu-34" vertex="1">
+          <mxGeometry x="710" y="220" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-17" value="ARIMA" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-30">
           <mxGeometry x="20" y="40" width="160" height="20" as="geometry" />
@@ -126,24 +144,6 @@
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-20" value="Transformer" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-30">
           <mxGeometry x="20" y="130" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-28" value="特征工程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2180" y="4370" width="330" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-29" value="自动特征交叉" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ul-Vwd7saMStCwck5iwu-28">
-          <mxGeometry x="20" y="30" width="300" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-30" value="缺失值智能填充" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ul-Vwd7saMStCwck5iwu-28">
-          <mxGeometry x="20" y="60" width="300" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-31" value="时间特征提取（如差分化、滑动窗口）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ul-Vwd7saMStCwck5iwu-28">
-          <mxGeometry x="20" y="90" width="300" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-32" value="类别特征目标编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ul-Vwd7saMStCwck5iwu-28">
-          <mxGeometry x="20" y="120" width="300" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-34" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="4840" width="880" height="710" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
