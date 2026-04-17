@@ -22,6 +22,9 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-18" value="敏感数据加密：在上传时选择是否为敏感数据，并在数据库字段标记" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-6" vertex="1">
           <mxGeometry x="50" y="150" width="290" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-24" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1340" y="4660" width="960" height="540" as="geometry" />
+        </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-15" value="数据集管理" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1760" y="4000" width="430" height="340" as="geometry" />
         </mxCell>
@@ -39,9 +42,6 @@
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-23" value="自动检测：支持检测数据集缺失率、重复行、异常值、分布漂移自动给出修复方案（如删除、插值、标记）" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-15" vertex="1">
           <mxGeometry x="30" y="280" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-24" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="4660" width="960" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-26" value="分类" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1340" y="4760" width="200" height="210" as="geometry" />
