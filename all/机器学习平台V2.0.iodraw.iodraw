@@ -44,7 +44,7 @@
           <mxGeometry x="1340" y="4400" width="960" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-26" value="分类" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="4500" width="200" height="190" as="geometry" />
+          <mxGeometry x="1340" y="4500" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-1" value="逻辑回归" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-26">
           <mxGeometry x="20" y="30" width="160" height="20" as="geometry" />
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-5" value="神经网络（MLP）" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-26">
           <mxGeometry x="20" y="150" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-12" value="神经网络（MLP）" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-26">
+          <mxGeometry x="20" y="180" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-27" value="回归" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1580" y="4500" width="200" height="220" as="geometry" />
