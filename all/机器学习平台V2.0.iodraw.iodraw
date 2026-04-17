@@ -23,7 +23,7 @@
           <mxGeometry x="50" y="150" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-24" value="算法模型库" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontFamily=Times New Roman;horizontal=1;verticalAlign=top;fontSize=57;" parent="1" vertex="1">
-          <mxGeometry x="530" y="4540" width="990" height="440" as="geometry" />
+          <mxGeometry x="1660" y="4610" width="990" height="440" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-15" value="数据集管理" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1760" y="4000" width="430" height="340" as="geometry" />
@@ -141,6 +141,9 @@
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-32" value="类别特征目标编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ul-Vwd7saMStCwck5iwu-28">
           <mxGeometry x="20" y="120" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-33" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="4840" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
