@@ -133,7 +133,7 @@
         <mxCell id="ul-Vwd7saMStCwck5iwu-29" value="自动特征交叉" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ul-Vwd7saMStCwck5iwu-28">
           <mxGeometry x="20" y="30" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-30" value="自动特征交叉" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ul-Vwd7saMStCwck5iwu-28">
+        <mxCell id="ul-Vwd7saMStCwck5iwu-30" value="缺失值智能填充" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ul-Vwd7saMStCwck5iwu-28">
           <mxGeometry x="20" y="60" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
