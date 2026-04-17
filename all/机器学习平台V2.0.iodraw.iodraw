@@ -41,10 +41,10 @@
           <mxGeometry x="30" y="280" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-24" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="4400" width="960" height="60" as="geometry" />
+          <mxGeometry x="1340" y="4660" width="960" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-26" value="分类" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="4500" width="200" height="210" as="geometry" />
+          <mxGeometry x="1340" y="4760" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-1" value="逻辑回归" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-26">
           <mxGeometry x="20" y="30" width="160" height="20" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="20" y="180" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-27" value="回归" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="4500" width="200" height="210" as="geometry" />
+          <mxGeometry x="1580" y="4760" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-6" value="线性回归" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-27">
           <mxGeometry x="20" y="30" width="160" height="20" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="20" y="180" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-29" value="聚类" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1830" y="4500" width="200" height="300" as="geometry" />
+          <mxGeometry x="1830" y="4760" width="200" height="300" as="geometry" />
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-13" value="K-Means" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-29">
           <mxGeometry x="20" y="40" width="160" height="20" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="20" y="250" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-30" value="时间序列预测" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2110" y="4500" width="200" height="200" as="geometry" />
+          <mxGeometry x="2080" y="4760" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-17" value="ARIMA" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-30">
           <mxGeometry x="20" y="40" width="160" height="20" as="geometry" />
