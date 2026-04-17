@@ -30,6 +30,9 @@
             <mxPoint x="1440" y="4300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rr7qfzfnsnY9gMWIjZwD-15" target="ul-Vwd7saMStCwck5iwu-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-15" value="数据集管理" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="4130" width="430" height="340" as="geometry" />
         </mxCell>
@@ -47,6 +50,9 @@
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-23" value="自动检测：支持检测数据集缺失率、重复行、异常值、分布漂移自动给出修复方案（如删除、插值、标记）" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-15" vertex="1">
           <mxGeometry x="30" y="280" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ul-Vwd7saMStCwck5iwu-28" target="ul-Vwd7saMStCwck5iwu-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-28" value="特征工程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1975" y="4230" width="330" height="150" as="geometry" />
