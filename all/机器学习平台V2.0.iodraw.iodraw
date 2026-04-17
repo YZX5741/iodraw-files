@@ -25,6 +25,11 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-18" value="敏感数据加密：在上传时选择是否为敏感数据，并在数据库字段标记" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-6" vertex="1">
           <mxGeometry x="50" y="150" width="290" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ul-Vwd7saMStCwck5iwu-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1440" y="4300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-15" value="数据集管理" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="4130" width="430" height="340" as="geometry" />
         </mxCell>
