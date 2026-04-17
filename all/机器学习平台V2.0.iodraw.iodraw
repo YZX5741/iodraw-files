@@ -106,6 +106,12 @@
         <mxCell id="ul-Vwd7saMStCwck5iwu-17" value="ARIMA" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-30">
           <mxGeometry x="20" y="40" width="160" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-18" value="Prophet" style="whiteSpace=wrap;html=1;" vertex="1" parent="rr7qfzfnsnY9gMWIjZwD-30">
+          <mxGeometry x="20" y="70" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-19" value="Prophet" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="4580" width="160" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
