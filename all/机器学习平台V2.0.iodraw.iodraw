@@ -22,13 +22,8 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-18" value="敏感数据加密：在上传时选择是否为敏感数据，并在数据库字段标记" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-6" vertex="1">
           <mxGeometry x="50" y="150" width="290" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ul-Vwd7saMStCwck5iwu-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1440" y="4300" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-15" value="数据集管理" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="4130" width="430" height="340" as="geometry" />
+          <mxGeometry x="1390" y="3940" width="430" height="340" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-17" value="标准化处理：所以导入的数据统一转换为内部标准格式，并储存于本地文件系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-15" vertex="1">
           <mxGeometry x="30" y="35" width="360" height="55" as="geometry" />
@@ -44,9 +39,6 @@
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-23" value="自动检测：支持检测数据集缺失率、重复行、异常值、分布漂移自动给出修复方案（如删除、插值、标记）" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-15" vertex="1">
           <mxGeometry x="30" y="280" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ul-Vwd7saMStCwck5iwu-28" target="ul-Vwd7saMStCwck5iwu-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-28" value="特征工程" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1975" y="4225" width="330" height="150" as="geometry" />
