@@ -27,9 +27,6 @@
             <mxPoint x="1440" y="4300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rr7qfzfnsnY9gMWIjZwD-15" target="ul-Vwd7saMStCwck5iwu-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-15" value="数据集管理" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="4130" width="430" height="340" as="geometry" />
         </mxCell>
