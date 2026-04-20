@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="fQIkL4wUTDb662sCZAKG">
-    <mxGraphModel dx="4070" dy="2903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
+    <mxGraphModel dx="2035" dy="1452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,6 +221,11 @@
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-10" value="训练完成后，模型自动保存本地，并记录详细评估指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
           <mxGeometry x="30" y="210" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="xFkyO426ZgT_1zkLLl1R-7" source="xFkyO426ZgT_1zkLLl1R-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2311.1112467447915" y="-730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-11" value="模型导出：SDK，ONNX，TensorRT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
           <mxGeometry x="30" y="290" width="560" height="50" as="geometry" />
