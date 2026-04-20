@@ -189,8 +189,8 @@
         <mxCell id="xFkyO426ZgT_1zkLLl1R-11" value="模型导出：SDK，ONNX，TensorRT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
           <mxGeometry x="30" y="290" width="560" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-13" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;AutoML&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="5010" width="630" height="320" as="geometry" />
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-13" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;权限控制&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="5430" width="630" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
