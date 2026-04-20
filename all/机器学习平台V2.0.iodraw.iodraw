@@ -174,7 +174,7 @@
         <mxCell id="xFkyO426ZgT_1zkLLl1R-6" value="训练完成后，模型自动保存本地，并记录详细评估指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-3">
           <mxGeometry x="30" y="210" width="560" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-7" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;模型训练&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-7" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;模型管理及部署&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="930" y="5420" width="630" height="290" as="geometry" />
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-8" value="异步训练（Celery+Redis）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
