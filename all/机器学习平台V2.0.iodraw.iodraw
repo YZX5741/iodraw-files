@@ -225,11 +225,11 @@
         <mxCell id="xFkyO426ZgT_1zkLLl1R-11" value="模型导出：SDK，ONNX，TensorRT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
           <mxGeometry x="30" y="290" width="560" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-85" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;工业AI模型本地私有化推理运行系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3780" y="3290" width="3090" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-86" value="&lt;span style=&quot;font-size: 50px; font-weight: 400;&quot;&gt;工业AI模型本地私有化推理运行系统&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=120;" vertex="1" parent="1">
-          <mxGeometry x="4450" y="4120" width="1960" height="900" as="geometry" />
+          <mxGeometry x="3710" y="3460" width="2770" height="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-87" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4450" y="4120" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
