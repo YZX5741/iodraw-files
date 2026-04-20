@@ -234,6 +234,9 @@
         <mxCell id="xFkyO426ZgT_1zkLLl1R-88" value="可视化配置中心" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-86">
           <mxGeometry x="930" y="220" width="890" height="340" as="geometry" />
         </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-89" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4090" y="3810" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
