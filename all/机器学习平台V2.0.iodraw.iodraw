@@ -238,7 +238,7 @@
           <mxGeometry x="40" y="140" width="610" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-88" value="可视化配置中心" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-86">
-          <mxGeometry x="930" y="220" width="890" height="340" as="geometry" />
+          <mxGeometry x="920" y="380" width="790" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-90" value="通过可视化界面配置不同模型与SCADA的数据获取点和数据回传点" style="whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-88">
           <mxGeometry x="130" y="40" width="610" height="60" as="geometry" />
