@@ -1,44 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="fQIkL4wUTDb662sCZAKG">
-    <mxGraphModel dx="1436" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-2" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;自动化机器学习平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1340" y="3290" width="940" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-6" value="数据获取" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1615" y="3510" width="390" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-9" value="文件上传：支持CSV、Excel" style="whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-6" vertex="1">
-          <mxGeometry x="50" y="49" width="290" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-10" value="数据库链接：支持MySQL、SQLlist、postgreSQL等" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-6" vertex="1">
-          <mxGeometry x="50" y="100" width="290" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-11" value="通过kafka、MQTT实时接入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FFFF;" parent="rr7qfzfnsnY9gMWIjZwD-6" vertex="1">
-          <mxGeometry x="50" y="250" width="290" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-18" value="敏感数据加密：在上传时选择是否为敏感数据，并在数据库字段标记" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-6" vertex="1">
-          <mxGeometry x="50" y="150" width="290" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-15" value="数据集管理" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1595" y="3940" width="430" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-17" value="标准化处理：所以导入的数据统一转换为内部标准格式，并储存于本地文件系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-15" vertex="1">
-          <mxGeometry x="30" y="35" width="360" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-19" value="数据集管理：可对数据集进行删除、预览等操作，" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-15" vertex="1">
-          <mxGeometry x="30" y="100" width="360" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-20" value="敏感数据加密：敏感数据集只能查看字段名，其余内容*代替" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-15" vertex="1">
-          <mxGeometry x="30" y="160" width="360" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-21" value="版本管理：对同一数据集可以进行追加清洗等操作并进行版本管理，每次数据集修改（追加、清洗、特征工程）生成新版本，并可追溯、回滚。" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-15" vertex="1">
-          <mxGeometry x="30" y="210" width="360" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-23" value="自动检测：支持检测数据集缺失率、重复行、异常值、分布漂移自动给出修复方案（如删除、插值、标记）" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-15" vertex="1">
-          <mxGeometry x="30" y="280" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-28" value="特征工程" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2210" y="4020" width="330" height="150" as="geometry" />
@@ -55,8 +22,80 @@
         <mxCell id="ul-Vwd7saMStCwck5iwu-32" value="类别特征目标编码" style="rounded=0;whiteSpace=wrap;html=1;" parent="ul-Vwd7saMStCwck5iwu-28" vertex="1">
           <mxGeometry x="20" y="120" width="300" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-34" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;算法模型库&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="4450" width="980" height="390" as="geometry" />
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;特征算子库&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="490" y="4485" width="630" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-2" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;AutoML&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="4485" width="630" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-3" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;模型训练&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1495" y="5090" width="630" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-4" value="异步训练（Celery+Redis）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-3">
+          <mxGeometry x="30" y="70" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-5" value="任务信息列表，查看训练状态，并查看详细日志和训练信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-3">
+          <mxGeometry x="30" y="135" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-6" value="训练完成后，模型自动保存本地，并记录详细评估指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-3">
+          <mxGeometry x="30" y="210" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-7" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;模型管理及部署&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1495" y="5580" width="630" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-8" value="一件部署：部署后可通过RESTfulAPI调用，自动生成API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
+          <mxGeometry x="30" y="70" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-9" value="生命周期：可以管理模型的各版本，和模型个版本调用日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
+          <mxGeometry x="31" y="135" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-10" value="训练完成后，模型自动保存本地，并记录详细评估指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
+          <mxGeometry x="30" y="210" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-11" value="模型导出：SDK，ONNX，TensorRT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
+          <mxGeometry x="30" y="290" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-13" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;权限控制&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3430" width="3110" height="3200" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-14" value="采用RBAC模型对不同角色的功能模型等进行控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-13">
+          <mxGeometry x="30" y="80" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-6" value="数据获取" style="swimlane;whiteSpace=wrap;html=1;" parent="xFkyO426ZgT_1zkLLl1R-13" vertex="1">
+          <mxGeometry x="1360" y="70" width="390" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-9" value="文件上传：支持CSV、Excel" style="whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-6" vertex="1">
+          <mxGeometry x="50" y="49" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-10" value="数据库链接：支持MySQL、SQLlist、postgreSQL等" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-6" vertex="1">
+          <mxGeometry x="50" y="100" width="290" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-11" value="通过kafka、MQTT实时接入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FFFF;" parent="rr7qfzfnsnY9gMWIjZwD-6" vertex="1">
+          <mxGeometry x="50" y="250" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-18" value="敏感数据加密：在上传时选择是否为敏感数据，并在数据库字段标记" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-6" vertex="1">
+          <mxGeometry x="50" y="150" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-15" value="数据集管理" style="swimlane;whiteSpace=wrap;html=1;" parent="xFkyO426ZgT_1zkLLl1R-13" vertex="1">
+          <mxGeometry x="1340" y="490" width="430" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-17" value="标准化处理：所以导入的数据统一转换为内部标准格式，并储存于本地文件系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-15" vertex="1">
+          <mxGeometry x="30" y="35" width="360" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-19" value="数据集管理：可对数据集进行删除、预览等操作，" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-15" vertex="1">
+          <mxGeometry x="30" y="100" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-20" value="敏感数据加密：敏感数据集只能查看字段名，其余内容*代替" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-15" vertex="1">
+          <mxGeometry x="30" y="160" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-21" value="版本管理：对同一数据集可以进行追加清洗等操作并进行版本管理，每次数据集修改（追加、清洗、特征工程）生成新版本，并可追溯、回滚。" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-15" vertex="1">
+          <mxGeometry x="30" y="210" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-23" value="自动检测：支持检测数据集缺失率、重复行、异常值、分布漂移自动给出修复方案（如删除、插值、标记）" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-15" vertex="1">
+          <mxGeometry x="30" y="280" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-34" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;算法模型库&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="xFkyO426ZgT_1zkLLl1R-13" vertex="1">
+          <mxGeometry x="1065" y="1010" width="980" height="390" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-26" value="分类" style="swimlane;whiteSpace=wrap;html=1;" parent="ul-Vwd7saMStCwck5iwu-34" vertex="1">
           <mxGeometry x="20" y="70" width="200" height="210" as="geometry" />
@@ -141,45 +180,6 @@
         </mxCell>
         <mxCell id="ul-Vwd7saMStCwck5iwu-20" value="Transformer" style="whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-30" vertex="1">
           <mxGeometry x="20" y="130" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;特征算子库&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
-          <mxGeometry x="490" y="4485" width="630" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-2" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;AutoML&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
-          <mxGeometry x="2560" y="4485" width="630" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-3" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;模型训练&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1495" y="5090" width="630" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-4" value="异步训练（Celery+Redis）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-3">
-          <mxGeometry x="30" y="70" width="560" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-5" value="任务信息列表，查看训练状态，并查看详细日志和训练信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-3">
-          <mxGeometry x="30" y="135" width="560" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-6" value="训练完成后，模型自动保存本地，并记录详细评估指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-3">
-          <mxGeometry x="30" y="210" width="560" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-7" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;模型管理及部署&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1495" y="5580" width="630" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-8" value="一件部署：部署后可通过RESTfulAPI调用，自动生成API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
-          <mxGeometry x="30" y="70" width="560" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-9" value="生命周期：可以管理模型的各版本，和模型个版本调用日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
-          <mxGeometry x="31" y="135" width="560" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-10" value="训练完成后，模型自动保存本地，并记录详细评估指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
-          <mxGeometry x="30" y="210" width="560" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-11" value="模型导出：SDK，ONNX，TensorRT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
-          <mxGeometry x="30" y="290" width="560" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-13" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;权限控制&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
-          <mxGeometry x="200" y="3430" width="3110" height="3200" as="geometry" />
-        </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-14" value="采用RBAC模型对不同角色的功能模型等进行控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-13">
-          <mxGeometry x="30" y="80" width="560" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
