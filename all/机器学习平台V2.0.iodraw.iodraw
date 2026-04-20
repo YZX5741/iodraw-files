@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-2" value="自动化机器学习平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="3330" width="940" height="50" as="geometry" />
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-2" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;自动化机器学习平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1340" y="3290" width="940" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-6" value="数据获取" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1615" y="3510" width="390" height="320" as="geometry" />
