@@ -249,8 +249,8 @@
         <mxCell id="xFkyO426ZgT_1zkLLl1R-99" value="各模型根据配置的不同接受点实时监听推理回传" style="whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-98">
           <mxGeometry x="55" y="60" width="610" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-100" value="推理引擎集群" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4110" y="4470" width="720" height="160" as="geometry" />
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-100" value="运行监控与警告" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-86">
+          <mxGeometry x="410" y="1240" width="720" height="160" as="geometry" />
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-101" value="各模型根据配置的不同接受点实时监听推理回传" style="whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-100">
           <mxGeometry x="55" y="60" width="610" height="60" as="geometry" />
