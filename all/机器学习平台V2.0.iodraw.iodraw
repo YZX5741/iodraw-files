@@ -177,7 +177,7 @@
         <mxCell id="xFkyO426ZgT_1zkLLl1R-7" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;模型管理及部署&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="930" y="5420" width="630" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-8" value="一件部署：部署后可通过RESTfulAPI调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-8" value="一件部署：部署后可通过RESTfulAPI调用，自动生成API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
           <mxGeometry x="30" y="70" width="560" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
