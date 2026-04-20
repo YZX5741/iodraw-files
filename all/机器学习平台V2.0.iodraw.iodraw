@@ -228,7 +228,7 @@
         <mxCell id="xFkyO426ZgT_1zkLLl1R-86" value="&lt;span style=&quot;font-size: 50px; font-weight: 400;&quot;&gt;工业AI模型本地私有化推理运行系统&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=120;" vertex="1" parent="1">
           <mxGeometry x="3710" y="3460" width="2770" height="1480" as="geometry" />
         </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-87" value="q" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-86">
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-87" value="模型上传与版本管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-86">
           <mxGeometry x="110" y="240" width="690" height="290" as="geometry" />
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-89" value="上传机器学习平台导出的模型" style="whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-87">
