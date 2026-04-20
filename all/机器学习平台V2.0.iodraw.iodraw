@@ -240,11 +240,17 @@
         <mxCell id="xFkyO426ZgT_1zkLLl1R-91" value="上传多种模型，并对模型进行版本管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-87">
           <mxGeometry x="40" y="140" width="610" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xFkyO426ZgT_1zkLLl1R-86" source="xFkyO426ZgT_1zkLLl1R-88" target="xFkyO426ZgT_1zkLLl1R-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-88" value="可视化配置中心" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-86">
           <mxGeometry x="390" y="520" width="790" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-90" value="通过可视化界面配置不同模型与SCADA的数据获取点和数据回传点" style="whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-88">
           <mxGeometry x="90" y="55" width="610" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="xFkyO426ZgT_1zkLLl1R-86" source="xFkyO426ZgT_1zkLLl1R-98" target="xFkyO426ZgT_1zkLLl1R-100">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-98" value="推理引擎集群" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-86">
           <mxGeometry x="425" y="780" width="720" height="160" as="geometry" />
@@ -253,7 +259,7 @@
           <mxGeometry x="55" y="60" width="610" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-100" value="运行监控与警告" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-86">
-          <mxGeometry x="400" y="1060" width="720" height="340" as="geometry" />
+          <mxGeometry x="425" y="990" width="720" height="340" as="geometry" />
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-101" value="全链路监控：可视化展示系统运行状态、SCADA 连接状态、模型推理延迟 / 吞吐量、端点数据连通性、硬件资源占用率。" style="whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-100">
           <mxGeometry x="55" y="60" width="610" height="60" as="geometry" />
