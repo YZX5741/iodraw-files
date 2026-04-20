@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="fQIkL4wUTDb662sCZAKG">
-    <mxGraphModel dx="1285" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
+    <mxGraphModel dx="2220" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,6 +172,18 @@
           <mxGeometry x="30" y="135" width="560" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-6" value="训练完成后，模型自动保存本地，并记录详细评估指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-3">
+          <mxGeometry x="30" y="210" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-7" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;模型训练&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="930" y="5420" width="630" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-8" value="异步训练（Celery+Redis）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
+          <mxGeometry x="30" y="70" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-9" value="任务信息列表，查看训练状态，并查看详细日志和训练信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
+          <mxGeometry x="30" y="135" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-10" value="训练完成后，模型自动保存本地，并记录详细评估指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
           <mxGeometry x="30" y="210" width="560" height="50" as="geometry" />
         </mxCell>
       </root>
