@@ -1,26 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="fQIkL4wUTDb662sCZAKG">
-    <mxGraphModel dx="2442" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
+    <mxGraphModel dx="3053" dy="2178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-2" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;自动化机器学习平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1340" y="3290" width="940" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-28" value="特征工程" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2210" y="4020" width="330" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-29" value="自动特征交叉" style="rounded=0;whiteSpace=wrap;html=1;" parent="ul-Vwd7saMStCwck5iwu-28" vertex="1">
-          <mxGeometry x="20" y="30" width="300" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-30" value="缺失值智能填充" style="rounded=0;whiteSpace=wrap;html=1;" parent="ul-Vwd7saMStCwck5iwu-28" vertex="1">
-          <mxGeometry x="20" y="60" width="300" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-31" value="时间特征提取（如差分化、滑动窗口）" style="rounded=0;whiteSpace=wrap;html=1;" parent="ul-Vwd7saMStCwck5iwu-28" vertex="1">
-          <mxGeometry x="20" y="90" width="300" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-32" value="类别特征目标编码" style="rounded=0;whiteSpace=wrap;html=1;" parent="ul-Vwd7saMStCwck5iwu-28" vertex="1">
-          <mxGeometry x="20" y="120" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;特征算子库&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="490" y="4485" width="630" height="320" as="geometry" />
@@ -184,7 +169,22 @@
         <mxCell id="ul-Vwd7saMStCwck5iwu-20" value="Transformer" style="whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-30" vertex="1">
           <mxGeometry x="20" y="130" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rr7qfzfnsnY9gMWIjZwD-15" target="ul-Vwd7saMStCwck5iwu-28">
+        <mxCell id="ul-Vwd7saMStCwck5iwu-28" value="特征工程" style="swimlane;whiteSpace=wrap;html=1;" parent="xFkyO426ZgT_1zkLLl1R-13" vertex="1">
+          <mxGeometry x="2010" y="585" width="330" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-29" value="自动特征交叉" style="rounded=0;whiteSpace=wrap;html=1;" parent="ul-Vwd7saMStCwck5iwu-28" vertex="1">
+          <mxGeometry x="20" y="30" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-30" value="缺失值智能填充" style="rounded=0;whiteSpace=wrap;html=1;" parent="ul-Vwd7saMStCwck5iwu-28" vertex="1">
+          <mxGeometry x="20" y="60" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-31" value="时间特征提取（如差分化、滑动窗口）" style="rounded=0;whiteSpace=wrap;html=1;" parent="ul-Vwd7saMStCwck5iwu-28" vertex="1">
+          <mxGeometry x="20" y="90" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-Vwd7saMStCwck5iwu-32" value="类别特征目标编码" style="rounded=0;whiteSpace=wrap;html=1;" parent="ul-Vwd7saMStCwck5iwu-28" vertex="1">
+          <mxGeometry x="20" y="120" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xFkyO426ZgT_1zkLLl1R-13" source="rr7qfzfnsnY9gMWIjZwD-15" target="ul-Vwd7saMStCwck5iwu-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
