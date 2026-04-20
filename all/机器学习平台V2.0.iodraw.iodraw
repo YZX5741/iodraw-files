@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="fQIkL4wUTDb662sCZAKG">
-    <mxGraphModel dx="2035" dy="1452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,11 +231,11 @@
         <mxCell id="xFkyO426ZgT_1zkLLl1R-87" value="模型上传与版本管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-86">
           <mxGeometry x="110" y="240" width="690" height="290" as="geometry" />
         </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-89" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-87">
+          <mxGeometry x="40" y="50" width="610" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-88" value="可视化配置中心" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-86">
           <mxGeometry x="930" y="220" width="890" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-89" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4090" y="3810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
