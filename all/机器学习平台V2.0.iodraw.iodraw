@@ -7,11 +7,8 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-2" value="自动化机器学习平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1340" y="3330" width="940" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ul-Vwd7saMStCwck5iwu-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rr7qfzfnsnY9gMWIjZwD-6" target="rr7qfzfnsnY9gMWIjZwD-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-6" value="数据获取" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="3640" width="390" height="320" as="geometry" />
+          <mxGeometry x="1615" y="3510" width="390" height="320" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-9" value="文件上传：支持CSV、Excel" style="whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-6" vertex="1">
           <mxGeometry x="50" y="49" width="290" height="40" as="geometry" />
