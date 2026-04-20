@@ -156,6 +156,9 @@
         <mxCell id="ul-Vwd7saMStCwck5iwu-20" value="Transformer" style="whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-30" vertex="1">
           <mxGeometry x="20" y="130" width="160" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-1" value="特征算子库" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="5100" width="910" height="390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
