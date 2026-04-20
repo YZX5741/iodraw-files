@@ -162,7 +162,7 @@
         <mxCell id="xFkyO426ZgT_1zkLLl1R-2" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;AutoML&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="1650" y="5000" width="630" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-3" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;AutoML&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-3" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;模型训练&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="2360" y="5000" width="630" height="320" as="geometry" />
         </mxCell>
       </root>
