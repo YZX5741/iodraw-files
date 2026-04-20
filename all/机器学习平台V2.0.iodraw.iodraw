@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="fQIkL4wUTDb662sCZAKG">
-    <mxGraphModel dx="1744" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
+    <mxGraphModel dx="4070" dy="2903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="999999" pageHeight="99999" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,7 +226,7 @@
           <mxGeometry x="30" y="290" width="560" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-86" value="&lt;span style=&quot;font-size: 50px; font-weight: 400;&quot;&gt;工业AI模型本地私有化推理运行系统&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=120;" vertex="1" parent="1">
-          <mxGeometry x="3670" y="3370" width="2770" height="1480" as="geometry" />
+          <mxGeometry x="3800" y="4060" width="1550" height="1360" as="geometry" />
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xFkyO426ZgT_1zkLLl1R-86" source="xFkyO426ZgT_1zkLLl1R-87" target="xFkyO426ZgT_1zkLLl1R-88">
           <mxGeometry relative="1" as="geometry" />
