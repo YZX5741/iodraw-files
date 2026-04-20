@@ -234,7 +234,7 @@
         <mxCell id="xFkyO426ZgT_1zkLLl1R-89" value="上传机器学习平台导出的模型" style="whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-87">
           <mxGeometry x="40" y="50" width="610" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-91" value="上传机器学习平台导出的模型" style="whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-87">
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-91" value="上传多种模型，并对模型进行版本管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-87">
           <mxGeometry x="40" y="140" width="610" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-88" value="可视化配置中心" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-86">
