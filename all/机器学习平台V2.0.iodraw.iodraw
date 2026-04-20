@@ -270,9 +270,13 @@
         <mxCell id="xFkyO426ZgT_1zkLLl1R-103" value="&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-weight: 700; line-height: 24px; text-align: start; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);&quot;&gt;异常告警&lt;/span&gt;：支持 SCADA 断连、数据异常、模型推理失败、推理延迟超标、硬件资源不足等场景的告警，对接工厂现有告警体系（短信、邮件、本地声光告警）。" style="whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-100">
           <mxGeometry x="55" y="220" width="610" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFkyO426ZgT_1zkLLl1R-11" target="xFkyO426ZgT_1zkLLl1R-87">
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="xFkyO426ZgT_1zkLLl1R-11" target="xFkyO426ZgT_1zkLLl1R-87">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3751.1112467447915" y="4860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3550" y="5905" />
+              <mxPoint x="3550" y="4390" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
