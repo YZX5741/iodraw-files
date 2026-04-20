@@ -168,6 +168,9 @@
         <mxCell id="xFkyO426ZgT_1zkLLl1R-4" value="异步训练（Celery+Redis）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-3">
           <mxGeometry x="30" y="70" width="560" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-5" value="任务信息列表，查看训练状态，并查看详细日志和训练信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-3">
+          <mxGeometry x="30" y="135" width="560" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
