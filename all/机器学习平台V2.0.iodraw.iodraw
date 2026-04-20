@@ -244,9 +244,9 @@
           <mxGeometry x="90" y="55" width="610" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-98" value="推理引擎集群" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-86">
-          <mxGeometry x="390" y="980" width="790" height="150" as="geometry" />
+          <mxGeometry x="390" y="980" width="790" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-99" value="通过可视化界面配置不同模型与SCADA的数据获取点和数据回传点" style="whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-98">
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-99" value="各模型根据配置的不同接受点实时监听推理回传" style="whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-98">
           <mxGeometry x="90" y="55" width="610" height="60" as="geometry" />
         </mxCell>
       </root>
