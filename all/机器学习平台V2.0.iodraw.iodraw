@@ -25,7 +25,7 @@
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-10" value="数据库链接：支持MySQL、SQLlist、postgreSQL等" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-6" vertex="1">
           <mxGeometry x="50" y="100" width="290" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="rr7qfzfnsnY9gMWIjZwD-11" value="通过kafka、MQTT实时接入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FFFF;" parent="rr7qfzfnsnY9gMWIjZwD-6" vertex="1">
+        <mxCell id="rr7qfzfnsnY9gMWIjZwD-11" value="通过kafka、MQTT实时接入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rr7qfzfnsnY9gMWIjZwD-6" vertex="1">
           <mxGeometry x="50" y="250" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rr7qfzfnsnY9gMWIjZwD-18" value="敏感数据加密：在上传时选择是否为敏感数据，并在数据库字段标记" style="rounded=0;whiteSpace=wrap;html=1;" parent="rr7qfzfnsnY9gMWIjZwD-6" vertex="1">
@@ -225,7 +225,7 @@
         <mxCell id="xFkyO426ZgT_1zkLLl1R-11" value="模型导出：SDK，ONNX，TensorRT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xFkyO426ZgT_1zkLLl1R-7">
           <mxGeometry x="30" y="290" width="560" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xFkyO426ZgT_1zkLLl1R-86" value="&lt;span style=&quot;font-size: 50px; font-weight: 400;&quot;&gt;工业AI模型本地私有化推理运行系统&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=120;" vertex="1" parent="1">
+        <mxCell id="xFkyO426ZgT_1zkLLl1R-86" value="&lt;span style=&quot;font-size: 50px; font-weight: 400;&quot;&gt;工业AI模型本地私有化推理运行系统&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=120;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="3800" y="4060" width="1550" height="1360" as="geometry" />
         </mxCell>
         <mxCell id="xFkyO426ZgT_1zkLLl1R-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xFkyO426ZgT_1zkLLl1R-86" source="xFkyO426ZgT_1zkLLl1R-87" target="xFkyO426ZgT_1zkLLl1R-88">
